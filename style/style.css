@@ -1,7 +1,10 @@
 body {
-    color: #E0FFFF
+    background-color: #E0FFFF
 }
-.jumbotron {
+jumbotron {
     background-image: url("../images/bacteria.jpeg");
     background-size: cover;
   }
+p {
+    background-color: beige;
+}
